@@ -1,0 +1,12 @@
+Buku ke : [1]
+Judul : Laskar Pelangi
+Pengarang : Andrea Hinata
+Jumlah Halaman : 529
+Jenis Buku : Fiksi
+
+Buku ke : [2]
+Judul : Cewek Smart
+Pengarang : Ria Fariana
+Jumlah Halaman : 200
+Jenis Buku : Non fiksi
+
